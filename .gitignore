@@ -1,0 +1,77 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+error.log
+access.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Cache files
+cache/
+*.cache
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Database files (for security)
+*.sql.gz
+*.sql.zip
+database/backups/
+
+# Media files (if too large)
+# public/assets/videos/large-files/
+
+# Build files
+dist/
+build/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# PHP specific
+composer.phar
+composer.lock
+
+# Session files
+sessions/
+
+# Upload directories (if containing user data)
+uploads/user-content/
+
+# Config files with sensitive data
+config/production.php
+config/local.php
