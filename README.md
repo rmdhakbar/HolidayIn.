@@ -1,6 +1,5 @@
 # HolidayIn - Tourism Website
 
-![Project Status](https://img.shields.io/badge/Status-Active-green)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -400,6 +399,5 @@ Check password hashing implementation
 Solution: Verify web server configuration
 Check file paths in HTML files
 ```
-
 
 **Made with ❤️ for tourism in Yogyakarta, Indonesia**
